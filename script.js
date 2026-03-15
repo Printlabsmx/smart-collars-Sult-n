@@ -1,14 +1,14 @@
 /* ===== DATOS DE LA MASCOTA ===== */
 
 const petData = {
-  name: "Camilo",
-  species: "Gato · Snowshoe",
-  size: "Tamaño chico",
-  owner: "Evelyn",
-  phone: "6182200399",
+  name: "SULTÁN",
+  species: "Perro Mestizo",
+  size: "Tamaño mediano",
+  owner: "Xóchitl Mariela",
+  phone: "6181516426",
   location: "Durango, Dgo",
   friendly: true,
-  instructions: "Por favor comunicarse con el dueño."
+  instructions: "Le gusta mucho estar en la calle pero sabe volver, Porfavor no lo captures."
 };
 
 /* ===== CARGA AUTOMÁTICA ===== */
